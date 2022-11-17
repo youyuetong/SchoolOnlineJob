@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "http.encoding.enabled",
+      "type": "java.lang.String",
+      "description": "Description for http.encoding.enabled."
+  }
+] }
